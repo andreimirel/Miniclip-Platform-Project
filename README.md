@@ -14,12 +14,12 @@ Rapid Fire is a fast-paced shooting game. The player must eliminate rapidly movi
 4. Tanks
 Tanks is a strategy game where players control tanks and engage in tactical battles. The objective is to destroy the opponent using smart maneuvers and precise shots. Each tank has unique abilities, and the battlefield includes obstacles and cover spots. Players must think strategically to secure victory.
 
-Languages / Technologies Used
-C++
+Languages / Technologies Used - Python, Pygame
+
 Contributors
 Dinu Andrei-Marian – Tetris
 Birtia Andrei Mirel – Pacman
 Rusu Ionut-Andrei – Rapid Fire
 Buculei Călin – Tanks
-Issues
-Problem: Implementing the menu (combining all games into a single application) and ensuring a smooth experience for each game.
+
+Issues-Implementing the menu (combining all games into a single application) and ensuring a smooth experience for each game.
